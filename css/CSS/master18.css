@@ -1,0 +1,23 @@
+.first{
+    width: 50%;
+    height: 1000px;
+    float: left;
+    background-color: yellow;
+    text-align: center;
+}
+
+.second{
+    width: 50%;
+    height: 1000px;
+    float: right;
+    background-color:blue;
+    text-align: center;
+
+}
+
+.f{
+    font-size: 50px;
+    color: aliceblue;
+    margin-top: 50%;
+    
+}
