@@ -1,0 +1,201 @@
+.out{
+    width: 40%;
+    height: auto;
+    display: grid;
+    grid-template-columns:  repeat(60 , 1fr) ;
+    gap: 10px;
+    text-align: center;
+
+}
+    
+
+
+
+div{
+    color: azure;
+}
+
+.number0_1{
+    width: auto;
+    height: 40px;
+    background-color: rgb(153, 179, 249);
+    grid-column: 1 / 61;
+    border-radius: 5px;
+    
+}
+.number1_1{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 1 / 31;
+    border-radius: 5px;
+    
+}
+.number1_2{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 31 / 61;
+    border-radius: 5px;
+    
+}
+
+/* ######################### */
+.number2_1{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 1/21;
+    border-radius: 5px;
+    
+}
+.number2_2{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 21 / 41;
+    border-radius: 5px;
+    
+}
+.number2_3{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column:  41/ 61;
+    border-radius: 5px;
+    
+}
+/* ##################### */
+
+
+.number3_1{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 1/ 16;
+    border-radius: 5px;
+}
+.number3_2{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 16 / 31;
+    border-radius: 5px;
+}
+.number3_3{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 31 / 46;
+    border-radius: 5px;
+}
+.number3_4{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 46 / 61;
+    border-radius: 5px;
+}
+
+/* ######################## */
+
+.number4_1{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 1 / 13;
+    border-radius: 5px;
+}
+.number4_2{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 13/ 25;
+    border-radius: 5px;
+}
+.number4_3{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 25 / 37;
+    border-radius: 5px;
+}
+.number4_4{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 37 / 49;
+    border-radius: 5px;
+}
+.number4_5{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 49 / 61;
+    border-radius: 5px;
+}
+/* #################### */
+
+.number5_1{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 1 / 11;
+    border-radius: 5px;
+}
+.number5_2{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 11 / 21;
+    border-radius: 5px;
+}
+.number5_3{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 21 / 31;
+    border-radius: 5px;
+}
+.number5_4{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 31 / 41;
+    border-radius: 5px;
+}
+.number5_5{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 41 / 51;
+    border-radius: 5px;
+}
+.number5_6{
+    width: auto;
+    height: 40px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 51 / 61;
+    border-radius: 5px;
+}
+
+.number_end{
+
+    width: auto;
+    height: 80px;
+ background-color: rgb(153, 179, 249);
+    grid-column: 1 / 61;
+    border-radius: 5px;
+    text-align: center;
+   
+}
+
+p{
+    font-size: large;
+    color: azure;
+}
+
+div{
+    color: azure;
+    font-size: larger;
+}

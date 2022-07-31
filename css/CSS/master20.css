@@ -1,0 +1,32 @@
+.master{
+    width: 100%;
+    height: 600px;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20% 20%;
+    gap: 10px ;
+    grid-template-rows: 15% 60% 25%;
+    grid-template-areas: "head head head head head head " "left left left left right right" " footer footer footer footer footer footer ";
+   
+}
+
+
+.BK{
+    background-color: black;
+    grid-area: head ;
+    
+}
+
+.Y{
+    background-color: orange;
+    grid-area: left ;
+}
+
+.G{
+    background-color: green;
+    grid-area: right ;
+}
+
+.Bl{
+    background-color: blue;
+    grid-area: footer ;
+}
